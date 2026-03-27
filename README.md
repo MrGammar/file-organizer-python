@@ -4,7 +4,7 @@ Program rozpoznaje rozszerzenia plików (np. txt, pdf, jpg, png, zip, rar) i two
 Wykorzystane narzędzia:
 - Python (VSCode)
 - Biblioteka os -> do obsługi ścieżek i plików
-- Biblioteka Shutil -> do fizycznego przenoszenia plików
+- Biblioteka shutil -> do fizycznego przenoszenia plików
 
 Funkcje skryptu:
 Automatyzacja segregacji plików pozwalająca w szybki sposób uporządkować dany folder ułatwiając nawigację i gwarantując oszczędność czasu przy pracy z większą ilością plików.
