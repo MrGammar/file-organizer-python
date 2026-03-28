@@ -8,7 +8,7 @@ A simple Python script designed for automatic file segregation in a specified fo
 The program identifies file extensions (e.g. pdf, jpg, zip, png, txt, rar) and moves them into organized subfolders or creates the folders if they doesn't exist.
 
 ## Tech Stack
-- Python
+- Python 3.13
 - os library -> for path and file management
 - shutil library -> for moving files
 
